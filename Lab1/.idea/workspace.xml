@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="acb5ded2-25d2-47dd-884f-288824de12cf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b5X4SFfoKvQxr0Kxq5NERtLUY9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Palindrome">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Primes" />
+      <module name="Lab1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Palindrome" />
+      <module name="Lab1" />
+      <option name="PROGRAM_PARAMETERS" value="madam racecar apple kayak song noon" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Palindrome" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acb5ded2-25d2-47dd-884f-288824de12cf" name="Default Changelist" comment="" />
+      <created>1587922736433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587922736433</updated>
+      <workItem from="1587922739464" duration="2220000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1137" y="203" key="#Palindrome" timestamp="1587925073811">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="1137" y="203" key="#Palindrome/0.0.1920.1160@0.0.1920.1160" timestamp="1587925073811" />
+    <state width="914" height="556" key="GridCell.Tab.0.bottom" timestamp="1587925224399">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="914" height="556" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1587925224399" />
+    <state width="914" height="556" key="GridCell.Tab.0.center" timestamp="1587925224399">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="914" height="556" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1587925224399" />
+    <state width="914" height="556" key="GridCell.Tab.0.left" timestamp="1587925224399">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="914" height="556" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1587925224399" />
+    <state width="914" height="556" key="GridCell.Tab.0.right" timestamp="1587925224399">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="914" height="556" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1587925224399" />
+    <state x="1147" y="147" width="585" height="873" key="find.popup" timestamp="1587922867953">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="1147" y="147" width="585" height="873" key="find.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1587922867953" />
+  </component>
+</project>
